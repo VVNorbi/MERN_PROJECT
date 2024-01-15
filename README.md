@@ -34,19 +34,25 @@
 ## Zrzuty Ekranu
 
 **Strona główna**
-![Strona główna](screenshots/1.PNG)
+![Strona główna](Screenshots/1.PNG)
 
-**Sopot**
-![Sopot](screenshots/2.PNG)
+**Rejestracja**
+![Rejestracja](Screenshots/2.PNG)
 
-**Gdańsk**
-![Gdańsk](screenshots/4.PNG)
+**Logowanie**
+![Logowanie](Screenshots/3.PNG)
 
-**Gdynia**
-![Gynia](screenshots/3.PNG)
+**Lista prac**
+![Listaprac](Screenshots/4.PNG)
 
-**Trójmiasto**
-![Trójmiasto](screenshots/5.PNG)
+**Usuwanie**
+![Usuwanie](Screenshots/5.PNG)
+
+**Tworzenie oferty**
+![Tworzenie](Screenshots/6.PNG)
+
+**Edycja oferty**
+![Edycja](Screenshots/7.PNG)
 
  
 ## Instalacja
