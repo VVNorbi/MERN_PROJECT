@@ -53,6 +53,7 @@
 
 **Edycja oferty**
 ![Edycja](Screenshots/7.PNG)
+![Edycja](Screenshots/8.PNG)
 
  
 ## Instalacja
